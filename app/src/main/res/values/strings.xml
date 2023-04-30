@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DopWork1_Android2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_text">Input text</string>
+    <string name="addText">add text</string>
+    <string name="add">add text</string>
+</resources>
